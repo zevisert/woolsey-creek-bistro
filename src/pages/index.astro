@@ -1,0 +1,279 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Glow from "@components/Glow.astro";
+---
+
+<Layout title="Woolsey Creek Bistro">
+  <!-- Add your site or application content here -->
+
+  <header class="relative flex h-screen w-full bg-transparent overflow-hidden">
+    <!-- Navbar -->
+    <nav
+      class="relative z-20 top-0 right-0 w-full inline-block px-10 pt-5 text-2xl text-white bg-transparent bg-opacity-50 rounded-xl"
+    >
+      <div class="flex justify-between items-center flex-col md:flex-row gap-8">
+        <div>
+          <img
+            alt="Woolsey Creek Bistro Logo"
+            class="h-20 lg:h-32 aspect-[4/5]"
+            src="img/WoolseyLogo.svg"
+          />
+        </div>
+
+        <a
+          class="px-3 py-4 bg-black text-white font-sans uppercase tracking-widest border hover:text-black hover:bg-white hover:border-black transition duration-300"
+          href="menu">Menu</a
+        >
+      </div>
+    </nav>
+    <!-- Mobile Links -->
+    <!-- Video Background Element -->
+    <div
+      class="absolute w-screen h-screen border-b-8 border-lime-600 bg-[#859244]"
+    >
+      <div class="absolute w-full h-full flex items-center justify-center">
+        <img
+          alt="Woolsey Creek Bistro Logo"
+          class="w-full max-w-4xl relative z-10 mix-blend-overlay aspect-[50/23]"
+          src="img/WoolseyLogoFull.svg"
+        />
+      </div>
+      <video
+        id="hero-video"
+        class="absolute z-0 top-0 w-full h-full object-cover"
+        playsinline
+        loop
+        muted
+        poster="img/on-the-vine.jpg"
+      >
+        <source src="video/on-the-vine-boomerang.webm" type="video/webm" />
+      </video>
+      <script>
+        const motion = matchMedia("(prefers-reduced-motion)");
+        function autoplay(e: MediaQueryListEvent | MediaQueryList) {
+          const video = document.querySelector<HTMLVideoElement>("#hero-video");
+          if (!e.matches) {
+            video?.play();
+          } else {
+            video?.pause();
+          }
+        }
+        motion.addEventListener("change", autoplay);
+        autoplay(motion);
+        setTimeout(() => {}, 1000);
+      </script>
+      <div
+        class="absolute bottom-10 flex justify-center w-full mix-blend-overlay"
+      >
+        <svg
+          class="w-20 motion-safe:animate-bounce"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 20 7"
+        >
+          <path
+            d="M 0 0 L 10 5 L 20 0"
+            stroke="#000000"
+            stroke-width="2"
+            fill="none"></path>
+        </svg>
+      </div>
+    </div>
+  </header>
+
+  <!-- End of header -->
+
+  <!-- Main content -->
+
+  <main class="container print:max-w-none mx-auto">
+    <section class="py-20">
+      <div class="flex flex-wrap md:flex-nowrap p-5">
+        <div
+          class="flex items-center justify-center p-5 mx-auto w-full lg:w-1/2"
+        >
+          <Glow
+            alt="A teaser image showing three of the dishes on our menu"
+            class="object-fill aspect-[1240/1400] w-full"
+            src="/img/trio-slice.webp"
+          />
+        </div>
+        <div
+          class="flex flex-col p-5 items-center text-center justify-center w-full lg:w-1/2"
+        >
+          <h2 class="text-4xl tracking-widest uppercase pb-5">
+            Discover our menu
+          </h2>
+          <p class="text-2xl mb-12 p-5">
+            Cozy, upscale bistro features locally sourced Canadian fare with
+            global twists, plus outdoor tables.
+          </p>
+          <button class="px-3 py-4">
+            <a
+              class="px-3 py-4 bg-black text-white font-sans uppercase tracking-widest border hover:text-black hover:bg-white hover:border-black transition duration-300"
+              href="menu">Go to menu</a
+            >
+          </button>
+        </div>
+      </div>
+    </section>
+    <section class="py-20 border-2 border-lime-600 bg-texture">
+      <div class="flex flex-col md:flex-row justify-around items-start">
+        <div class="flex flex-col items-center justify-center w-full">
+          <Glow
+            loading="lazy"
+            alt="Indulge in our locally famous bruschetta and fine wines"
+            class="h-64 m-5 aspect-square object-cover border-b-8 border-lime-600"
+            src="/img/bruschetta-wine.jpg"
+          />
+          <h2 class="font-sans text-3xl tracking-widest uppercase mb-2">
+            Indulge
+          </h2>
+          <div class="px-20 text-center">
+            <p>
+              in an array of exceptional, beautifully crafted BC and
+              international wines, and delicious local beers and spirits.
+            </p>
+          </div>
+        </div>
+        <div class="flex flex-col items-center justify-center w-full">
+          <Glow
+            loading="lazy"
+            alt="A well prepared plate of nachos for you to savour"
+            class="h-64 m-5 aspect-square object-cover border-b-8 border-lime-600"
+            src="/img/nachos.webp"
+          />
+          <h2 class="font-sans text-3xl tracking-widest uppercase mb-2">
+            Savour
+          </h2>
+          <div class="px-20 text-center">
+            <p>
+              the exquisite, fresh culinary creations prepared with local,
+              sustainable ingredients, artistically presented on your plate.
+            </p>
+          </div>
+        </div>
+        <div class="flex flex-col items-center justify-center w-full">
+          <Glow
+            loading="lazy"
+            alt="A delicious dessert to satisfy your sweet tooth"
+            class="h-64 m-5 aspect-square object-cover border-b-8 border-lime-600"
+            src="/img/dessert.jpg"
+          />
+          <h2 class="font-sans text-3xl tracking-widest uppercase mb-2">
+            Satisfy
+          </h2>
+          <div class="px-20 text-center">
+            <p>
+              all of your senses in a beautiful, relaxing, casual fine dining
+              atmosphere, hinting of the wild essence of the Woolsey Creek
+              watershed.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="py-20 border-b-2 border-lime-600">
+      <div
+        class="flex flex-wrap flex-col items-center md:flex-nowrap w-full p-5"
+      >
+        <div
+          class="flex flex-col p-5 items-center text-center justify-center w-full lg:w-1/2"
+        >
+          <h2 class="text-4xl tracking-widest uppercase pb-5">Our Vision</h2>
+          <p class="text-lg mb-12 text-justify">
+            To create a unique experience where imaginative and flavorful
+            cuisine meet a welcoming atmosphere. By exploring local flavors and
+            ingredients and supporting the farmers of British Columbia, we give
+            our guests an opportunity to enjoy a savory dining experience. We
+            aim to provide you with a wide range of wines offering excellent
+            value. We take pride in sourcing exciting wineries, single vineyards
+            and rare vintages exclusive to the Woolsey. Come spend an enjoyable
+            evening with us!
+          </p>
+        </div>
+        <div class="w-full h-96 overflow-clip border-b-8 border-lime-600">
+          <Glow
+            loading="lazy"
+            alt="Woolsey Wine Selection"
+            class="object-cover object-bottom w-full h-96 brightness-75"
+            src="/img/wine-selection.webp"
+          />
+        </div>
+      </div>
+    </section>
+    <section
+      class="my-20 bg-fixed bg-center object-contain overflow-x-visible w-full"
+      style="background-image: url('/img/building-front.jpg')"
+    >
+      <div
+        class="container px-4 mx-auto backdrop-blur-sm backdrop-brightness-50"
+      >
+        <div class="pt-20 pb-24 px-8 md:px-16 rounded">
+          <div class="flex flex-wrap -mx-8">
+            <div class="w-full lg:w-1/2 px-8 flex">
+              <div class="my-auto text-white">
+                <h2 class="text-3xl lg:text-4xl font-semibold uppercase">
+                  Visit us:
+                </h2>
+                <p
+                  class="mt-2 leading-loose font-sans uppercase tracking-wide font-bold"
+                >
+                  Woolsey Creek Bistro
+                </p>
+                <p class="mt-2 mb-6 leading-loose">
+                  <a
+                    href="https://www.google.com/maps/place/?q=place_id:ChIJfUrLawU3eVMRuolxKzFH3xw"
+                    >604 2 St W, Revelstoke, BC V0E 2S0</a
+                  >
+                </p>
+                <h2 class="text-3xl lg:text-4xl font-semibold uppercase">
+                  Call us:
+                </h2>
+                <p class="mt-2 mb-6 leading-loose">
+                  <a href="tel:12508375500">250-837-5500</a>
+                </p>
+                <div
+                  class="inline-block p-8 border bg-black text-white uppercase tracking-widest font-semibold leading-relaxed rounded-none"
+                >
+                  <p
+                    class="font-sans uppercase tracking-wide font-bold text-white"
+                  >
+                    Hours of Operation
+                  </p>
+
+                  <ul>
+                    <li>Tuesday - Saturday: 5PM - 9PM</li>
+                    <li>Sunday - Monday: Closed</li>
+                  </ul>
+                </div>
+
+                <p class="bg-white"></p>
+              </div>
+            </div>
+            <div class="w-full print:hidden lg:w-1/2 px-8 mt-12 lg:mt-0">
+              <div class="embed-responsive border-x-4 border-t-4 border-black">
+                <iframe
+                  width="450"
+                  height="250"
+                  class="aspect-[4/3] w-full h-full bg-black border-b-8 border-lime-600"
+                  loading="lazy"
+                  title="Woolsey Creek Bistro on Google Maps"
+                  referrerpolicy="no-referrer-when-downgrade"
+                  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCLDETUETGMeUERokdxX_J5HbVtrEH8dy8&q=place_id:ChIJfUrLawU3eVMRuolxKzFH3xw&zoom=14"
+                  allowfullscreen
+                >
+                </iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>
+<style>
+  .bg-texture {
+    background-color: #ffffff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='16' viewBox='0 0 20 16'%3E%3Cg fill='%2365a30d' fill-opacity='0.025'%3E%3Cpath fill-rule='evenodd' d='M0 .04C2.6.22 4.99 1.1 7 2.5A13.94 13.94 0 0 1 15 0h4c.34 0 .67.01 1 .04v2A12 12 0 0 0 7.17 12h5.12A7 7 0 0 1 20 7.07V14a5 5 0 0 0-3-4.58A5 5 0 0 0 14 14H0V7.07c.86.12 1.67.4 2.4.81.75-1.52 1.76-2.9 2.98-4.05C3.79 2.83 1.96 2.2 0 2.04v-2z'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+  }
+</style>

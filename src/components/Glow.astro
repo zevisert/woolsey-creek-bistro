@@ -1,0 +1,13 @@
+---
+import type { HTMLAttributes } from "astro/types";
+export type Props = HTMLAttributes<"img">;
+
+const { class: baseClass, ...rest } = Astro.props;
+const classFront = `${baseClass} relative z-10`;
+const classBack = `${baseClass}  absolute top-[2px] left-0 scale-105 z-0 blur-2xl opacity-30`;
+---
+
+<div class="relative group">
+  <img class={classFront} {...rest} />
+  <img class={classBack} {...rest} />
+</div>

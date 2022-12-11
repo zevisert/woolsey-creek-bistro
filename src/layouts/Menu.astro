@@ -1,0 +1,87 @@
+---
+import Layout from "@layouts/Layout.astro";
+---
+
+<Layout title="Menu | Woolsey Creek Bistro">
+  <div class="flex w-full justify-center mt-8 print:mt-0">
+    <a href="/">
+      <img
+        alt="Woolsey Creek Bistro Logo"
+        class="h-24 md:h-32 aspect-[4/5] print:h-8"
+        src="/img/WoolseyLogo.svg"
+      />
+    </a>
+  </div>
+  <div
+    class="menu bg-white container print:max-w-none print:w-full mx-auto print:mx-0 border-2 mt-8 print:mt-2 border-b-0 print:border-b-2 border-lime-600"
+  >
+    <div class="markdown">
+      <slot />
+    </div>
+    <img
+      loading="lazy"
+      alt="Frying Pans"
+      class="p-4 max-h-64 w-full object-cover aspect-[28/17] print:hidden"
+      src="/img/fryingpans.jpg"
+    />
+  </div>
+</Layout>
+
+<style is:global>
+  .markdown {
+    min-height: 100vh;
+    @apply max-w-3xl mx-auto px-2 lg:px-0;
+  }
+
+  .markdown h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    line-height: 2em;
+    text-transform: uppercase;
+  }
+
+  @media print {
+    .markdown h1:not(:first-of-type) {
+      page-break-before: always;
+    }
+  }
+
+  .markdown h2 {
+    text-align: center;
+    font-size: x-large;
+    line-height: 2em;
+  }
+
+  .markdown p:not(:last-of-type) {
+    margin-bottom: 1em;
+  }
+
+  .markdown table {
+    @apply w-full table-auto;
+  }
+
+  .markdown table thead tr {
+    @apply border-0 divide-y-0;
+  }
+
+  .markdown table tr {
+    @apply w-full divide-y-2 md:divide-y-0;
+  }
+
+  .markdown table tr {
+    @apply text-left;
+  }
+
+  .markdown table td:not(:first-child):not(:last-child) {
+    @apply whitespace-normal xs:whitespace-pre;
+  }
+
+  .markdown table td:first-child {
+    @apply w-1/4 font-bold border-t-2 md:border-t-0;
+  }
+
+  .markdown table td:last-child {
+    @apply text-right font-semibold;
+  }
+</style>
