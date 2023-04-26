@@ -1,15 +1,18 @@
 ---
 import Layout from "@layouts/Layout.astro";
 import Glow from "@components/Glow.astro";
+import Banner from "@components/Banner.astro";
 ---
 
 <Layout title="Woolsey Creek Bistro">
   <!-- Add your site or application content here -->
 
   <header class="relative flex h-screen w-full bg-transparent overflow-hidden">
+    <!-- Banner -->
+    <Banner />
     <!-- Navbar -->
     <nav
-      class="relative z-20 top-0 right-0 w-full inline-block px-10 pt-5 text-2xl text-white bg-transparent bg-opacity-50 rounded-xl"
+      class="relative z-20 top-12 sm:top-24 md:top-0 right-0 w-full inline-block px-10 pt-5 text-2xl text-white bg-transparent bg-opacity-50 rounded-xl"
     >
       <div class="flex justify-between items-center flex-col md:flex-row gap-8">
         <div>
@@ -129,8 +132,8 @@ import Glow from "@components/Glow.astro";
           </h2>
           <div class="px-20 text-center">
             <p>
-              in an array of exceptional, beautifully crafted BC and
-              international wines, and delicious local beers and spirits.
+              in an array of exceptional, beautifully crafted BC wines, and
+              delicious local beers and spirits.
             </p>
           </div>
         </div>
@@ -241,8 +244,7 @@ import Glow from "@components/Glow.astro";
                   </p>
 
                   <ul>
-                    <li>Tuesday - Saturday: 5PM - 9PM</li>
-                    <li>Sunday - Monday: Closed</li>
+                    <li>Temporarily Closed</li>
                   </ul>
                 </div>
 
