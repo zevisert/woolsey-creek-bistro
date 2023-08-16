@@ -9,54 +9,58 @@ layout: ../layouts/Menu.astro
 
 **SOUP OF THE DAY** | Inspired by the chef. $11
 
+**DUCK DRUMETTES** | House BBQ, honey harissa, peanut satay, or salt & pepper. $18
+
+**SCALLOPS** | Scallops, chimichurri cream, grilled corn and poblano salsa, roasted red pepper coulis, fresh cilantro. $24
+
 **BEET SALAD** | Roasted gold and red beet, pickled beet, arugula pistou, whipped goat cheese, butter roasted pecan, micro mizuna. $18
 
-**KALE SALAD** | "First Light Farms" green and purple kale, red quinoa, gala apple, roasted almond, pickled shallot, sherry wine viniagrette. $18
+**KALE SALAD** | "_First Light Farms_" green and purple kale, pearl couscous, gala apple, grapes, roasted almond, pickled shallot, tamari vinaigrette. $16
 
-**SCALLOPS** | Scallops, chimichurri cream, grilled corn and poblano salsa, roasted red pepper coulis, fresh cilantro. $26
-
-**MUSHROOM SALAD** | "Revelstoke Mushroom Co." organic oyster mushrooms, pickled enoki mushroom, lion’s mane mushroom powder, smoked walnuts, manchego, arugula, charred lemon viniagrette. $19
-
-**DUCK DRUMETTES** | House BBQ, honey harissa, peanut satay, or salt & pepper. $18
+**MUSHROOM SALAD** | "_Revelstoke Mushroom Co._" organic oyster mushrooms, pickled shimeji mushroom, lion’s mane mushroom powder, smoked walnuts, manchego, arugula, porcini sherry wine vinaigrette. $19
 
 ## TO SHARE
 
-**BRUSCHETTA** | Fresh Roma tomato, red onion, fior di latte, arugula, balsamic reduction, "La Baguette" garlic baguette. $25
+**BRUSCHETTA** | Black garlic butter, fresh Roma tomato, red onion, fior di latte, arugula, balsamic reduction, "_La Baguette_" garlic baguette. $25
 
-**CHARCUTERIE BOARD** | Cured artisan meats, artisan cheeses, pickled vegetables, sundried tomato kalamata tapenade, spiced pecan, whole grain dijon, fresh seasonal fruit, crostini. $38
+**CHARCUTERIE BOARD** | Cured artisan meats, artisan cheeses, pickled vegetables, sundried tomato kalamata tapenade, spiced pecan, spiced pecan, whole grain dijon, fresh seasonal fruit, crostini. $38
 
-**MUSSELS** | Orange, anise, white onion, roma tomato, garlic, "La Baguette" garlic baguette. $30
+**MUSSELS** | Orange, anise, white onion, Roma tomato, garlic _OR_ White wine, leeks, roasted garlic, fresh herbs. Both served with "_La Baguette_" garlic baguette. $30
+
+**WHITE BEAN DIP** | Roasted garlic, burnt honey, balsamic glaze, herb emulsion, shaved parmesan, warm baguette. $21
 
 ## ENTREES
 
-**RIBS** | Braised back ribs in house BBQ, roasted garlic mashed potatoes, seasonal vegetables, fresh brussel sprout and red cabbage slaw. Half Rack $34 Full Rack $44
+**RIBS** | Braised back ribs in house BBQ, roasted garlic mashed potatoes, seasonal vegetables, fresh brussel sprout and red cabbage slaw. Half Rack $34 / Full Rack $44
 
-**PASTA** | Spaghettini, prawns, mussels, shallot, kale, roasted red pepper pepita cream, shaved grana padano cheese. $35
+**SEAFOOD PASTA** | Bucatini, prawns, mussels, cod, shallot, kale, roasted red pepper pepita rosé sauce, shaved grana padano. $35
 
 - Add chicken $9
-- Add garlic baguette $6
+- Add mushrooms $4
+- Add garlic baguette $4
+- Add scallops $17
 - Substitute gluten free red lentil penne $6
 
-**BRAISED BEEF SHANK** | Organic beef stiletto, roasted garlic mashed potatoes, seasonal vegetables, potato crisps, beef jus. $40
+**BRAISED BEEF SHANK** | Organic beef stiletto, roasted garlic mashed potatoes, buttered vegetables, potato crisps, beef jus. $40
 
-**VENISON BURGER** | Aged cheddar, candied bacon, house pickles, charred red onion aioli, arugula, alfalfa sprouts, "La Baguette" brioche, served with polenta fries and house BBQ. $28
+**VENISON BURGER** | Aged cheddar, candied bacon, house pickles, black garlic aioli, arugula, alfalfa sprouts, "_La Baguette_" brioche, served with polenta fries and house barbecue sauce. $26
 
-**STRIPLOIN** | Charred carrot puree, roasted marrow bone, smashed baby red skin potato, garlic broccolini. $57
+**PICANHA STEAK** | Grilled, marinated grass-fed serlion, roasted garlic, white bean pureé, chimichurri, grilled vegetables, garlic potatoes. $49
 
-**STUFFED CHICKEN** | Sundried tomato kalamata tapenade stuffed, gruyere and herb duchess potato, chicken demi-glace, seasonal vegetables. $41
+**CHICKEN BALLOTINE** | Breast stuffed with white wine braised thigh, gruyère and herb ducess doughnut, demi-glace, butter glazed vegetables. $42
 
-**STREELHEAD TROUT** | BC steelhead trout, pistachio crust, "Revelstoke Mushroom Co" oyster mushrooms, mint sweet pea puree, smashed baby red skin potato, pea shoots, trout caviar. $49
+**STREELHEAD TROUT** | BC steelhead trout, herb and pistachio crust, "_Revelstoke Mushroom Co._" oyster mushrooms, mint sweet pea puree, smashed baby red skin potato, pea shoots. $44
 
-**LING COD** | BC Ling cod, prosciutto wrapped, black wild rice, seasonal vegetables, red pepper pepita cream, yam crisps. $51
+**ALASKAN COD** | Prosciutto wrapped, herbed Israeli couscous, harissa soubise, black garlic aioli, crispy leek straws. $51
 
-**SQUASH** | Honey harissa glazed butternut squash, radicchio, tahini yogurt, spiced pepita and sunflower seed, arugula pistou, pickled shallot, fresh cilantro, micro mizuna. $33
+**SQUASH** | Honey harissa glazed butternut squash, red cabbage, tahini yogurt, spiced pepita and sunflower seed, arugula pistou, pickled shallot, fresh cilantro, micro mizuna. $33
 
 ## ADDITIONS
 
 - Chicken Breast $9
-- "Revelstoke Mushroom co" Mixed oyster mushrooms $8
-- "La Baguette" Freshly baked baguette $6
-- "La Baguette" Garlic baguette $6
+- "_Revelstoke Mushroom Co._" Mixed oyster mushrooms $8
+- "La Baguette" Fresh baguette $6
+- "La Baguette" Baked garlic baguette $6
 - Scallops (x2) $17
 - Seasonal Vegetables $8
 - Side Artisanal Cheese $7
