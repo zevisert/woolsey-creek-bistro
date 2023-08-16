@@ -37,9 +37,11 @@ layout: ../layouts/Menu.astro
 
 - Add chicken $9
 - Add mushrooms $4
-- Add garlic baguette $4
+- Add garlic baguette $6
 - Add scallops $17
 - Substitute gluten free red lentil penne $6
+
+<br/>
 
 **BRAISED BEEF SHANK** | Organic beef stiletto, roasted garlic mashed potatoes, buttered vegetables, potato crisps, beef jus. $40
 
@@ -59,8 +61,8 @@ layout: ../layouts/Menu.astro
 
 - Chicken Breast $9
 - "_Revelstoke Mushroom Co._" Mixed oyster mushrooms $8
-- "La Baguette" Fresh baguette $6
-- "La Baguette" Baked garlic baguette $6
+- "_La Baguette_" Fresh baguette $6
+- "_La Baguette_" Baked garlic baguette $6
 - Scallops (x2) $17
 - Seasonal Vegetables $8
 - Side Artisanal Cheese $7
