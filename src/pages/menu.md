@@ -51,7 +51,7 @@ layout: ../layouts/Menu.astro
 
 **CHICKEN BALLOTINE** | Breast stuffed with white wine braised thigh, gruyère and herb ducess doughnut, demi-glace, butter glazed vegetables. $42
 
-**STREELHEAD TROUT** | BC steelhead trout, herb and pistachio crust, "_Revelstoke Mushroom Co._" oyster mushrooms, mint sweet pea puree, smashed baby red skin potato, pea shoots. $44
+**STEELHEAD TROUT** | BC steelhead trout, herb and pistachio crust, "_Revelstoke Mushroom Co._" oyster mushrooms, mint sweet pea puree, smashed baby red skin potato, pea shoots. $44
 
 **ALASKAN COD** | Prosciutto wrapped, herbed Israeli couscous, harissa soubise, black garlic aioli, crispy leek straws. $51
 
