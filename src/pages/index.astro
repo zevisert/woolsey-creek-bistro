@@ -9,7 +9,7 @@ import Banner from "@components/Banner.astro";
 
   <header class="relative flex h-screen w-full bg-transparent overflow-hidden">
     <!-- Banner -->
-    <!-- <Banner /> -->
+    <Banner />
     <!-- Navbar -->
     <nav
       class="relative z-20 top-12 sm:top-24 md:top-0 right-0 w-full inline-block px-10 pt-5 text-2xl text-white bg-transparent bg-opacity-50 rounded-xl"
@@ -22,11 +22,6 @@ import Banner from "@components/Banner.astro";
             src="img/WoolseyLogo.svg"
           />
         </div>
-
-        <a
-          class="px-3 py-4 bg-black text-white font-sans uppercase tracking-widest border hover:text-black hover:bg-white hover:border-black transition duration-300"
-          href="menu">Menu</a
-        >
       </div>
     </nav>
     <!-- Mobile Links -->
@@ -88,118 +83,20 @@ import Banner from "@components/Banner.astro";
   <!-- Main content -->
 
   <main class="container print:max-w-none mx-auto">
-    <section class="py-20">
-      <div class="flex flex-wrap md:flex-nowrap p-5">
-        <div
-          class="flex items-center justify-center p-5 mx-auto w-full lg:w-1/2"
-        >
-          <Glow
-            alt="A teaser image showing three of the dishes on our menu"
-            class="object-fill aspect-[1240/1400] w-full"
-            src="/img/trio-slice.webp"
-          />
-        </div>
-        <div
-          class="flex flex-col p-5 items-center text-center justify-center w-full lg:w-1/2"
-        >
-          <h2 class="text-4xl tracking-widest uppercase pb-5">
-            Discover our menu
-          </h2>
-          <p class="text-2xl mb-12 p-5">
-            Cozy, upscale bistro features locally sourced Canadian fare with
-            global twists, plus outdoor tables.
-          </p>
-          <button class="px-3 py-4">
-            <a
-              class="px-3 py-4 bg-black text-white font-sans uppercase tracking-widest border hover:text-black hover:bg-white hover:border-black transition duration-300"
-              href="menu">Go to menu</a
-            >
-          </button>
-        </div>
-      </div>
-    </section>
-    <section class="py-20 border-2 border-lime-600 bg-texture">
+    <section class="py-20 mt-20 border-2 border-lime-600 bg-texture">
       <div class="flex flex-col md:flex-row justify-around items-start">
         <div class="flex flex-col items-center justify-center w-full">
-          <Glow
-            loading="lazy"
-            alt="Indulge in our locally famous bruschetta and fine wines"
-            class="h-64 m-5 aspect-square object-cover border-b-8 border-lime-600"
-            src="/img/bruschetta-wine.jpg"
-          />
           <h2 class="font-sans text-3xl tracking-widest uppercase mb-2">
-            Indulge
+            Closing our doors
           </h2>
           <div class="px-20 text-center">
-            <p>
-              in an array of exceptional, beautifully crafted BC wines, and
-              delicious local beers and spirits.
+            <p class="w-1/2 mx-auto">
+              On March 17th, 2024 the Woolsey Creek Bistro will be closing its
+              for the last time. We would like to thank all of our visitors and
+              staff for their support over the years. We have enjoyed serving
+              you and hope you find other ways to enjoy the Revelstoke area.
             </p>
           </div>
-        </div>
-        <div class="flex flex-col items-center justify-center w-full">
-          <Glow
-            loading="lazy"
-            alt="A well prepared plate of nachos for you to savour"
-            class="h-64 m-5 aspect-square object-cover border-b-8 border-lime-600"
-            src="/img/nachos.webp"
-          />
-          <h2 class="font-sans text-3xl tracking-widest uppercase mb-2">
-            Savour
-          </h2>
-          <div class="px-20 text-center">
-            <p>
-              the exquisite, fresh culinary creations prepared with local,
-              sustainable ingredients, artistically presented on your plate.
-            </p>
-          </div>
-        </div>
-        <div class="flex flex-col items-center justify-center w-full">
-          <Glow
-            loading="lazy"
-            alt="A delicious dessert to satisfy your sweet tooth"
-            class="h-64 m-5 aspect-square object-cover border-b-8 border-lime-600"
-            src="/img/dessert.jpg"
-          />
-          <h2 class="font-sans text-3xl tracking-widest uppercase mb-2">
-            Satisfy
-          </h2>
-          <div class="px-20 text-center">
-            <p>
-              all of your senses in a beautiful, relaxing, casual fine dining
-              atmosphere, hinting of the wild essence of the Woolsey Creek
-              watershed.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="py-20 border-b-2 border-lime-600">
-      <div
-        class="flex flex-wrap flex-col items-center md:flex-nowrap w-full p-5"
-      >
-        <div
-          class="flex flex-col p-5 items-center text-center justify-center w-full lg:w-1/2"
-        >
-          <h2 class="text-4xl tracking-widest uppercase pb-5">Our Vision</h2>
-          <p class="text-lg mb-12 text-justify">
-            To create a unique experience where imaginative and flavorful
-            cuisine meet a welcoming atmosphere. By exploring local flavors and
-            ingredients and supporting the farmers of British Columbia, we give
-            our guests an opportunity to enjoy a savory dining experience. We
-            aim to provide you with a wide range of wines offering excellent
-            value. We take pride in sourcing exciting wineries, single vineyards
-            and rare vintages exclusive to the Woolsey. Come spend an enjoyable
-            evening with us!
-          </p>
-        </div>
-        <div class="w-full h-96 overflow-clip border-b-8 border-lime-600">
-          <Glow
-            loading="lazy"
-            alt="Woolsey Wine Selection"
-            class="object-cover object-bottom w-full h-96 brightness-75"
-            src="/img/wine-selection.webp"
-          />
         </div>
       </div>
     </section>
