@@ -1,16 +1,16 @@
-# Welcome to [Astro](https://astro.build)
+# Welcome to the [Woolsey Creek Bistro](https://woolseycreekbistro.ca)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
+A website and online menu for the Woolsey Creek Bistro in Revelstoke, BC.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+![screenshot](.github/media/woolseycreekbistro.ca_.jpg)
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+This site aims to load fast so that even on low-bandwidth mobile connections, prospecting visitors can find our menu and information without having to wait.
 
+<img src=".github/media/lighthouse.jpg" width=500px />
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+This is a basic Astro project, with the default folders and files:
 
 ```
 /
@@ -32,7 +32,7 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 Any static assets, like images, can be placed in the `public/` directory.
 
-## 🧞 Commands
+## 🧞 Astro Commands
 
 All commands are run from the root of the project, from a terminal:
 
