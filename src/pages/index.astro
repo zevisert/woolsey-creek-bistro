@@ -1,14 +1,11 @@
 ---
 import Layout from "@layouts/Layout.astro";
-import Banner from "@components/Banner.astro";
 ---
 
 <Layout title="Woolsey Creek Bistro">
   <!-- Add your site or application content here -->
 
   <header class="relative flex h-screen w-full bg-transparent overflow-hidden">
-    <!-- Banner -->
-    <Banner />
     <!-- Navbar -->
     <nav
       class="relative z-20 top-12 sm:top-24 md:top-0 right-0 w-full inline-block px-10 pt-5 text-2xl text-white bg-transparent bg-opacity-50 rounded-xl"
@@ -21,6 +18,10 @@ import Banner from "@components/Banner.astro";
             src="img/WoolseyLogo.svg"
           />
         </div>
+        <a
+          class="px-3 py-4 bg-black text-white font-sans uppercase tracking-widest border hover:text-black hover:bg-white hover:border-black transition duration-300"
+          href="menu">Menu</a
+        >
       </div>
     </nav>
     <!-- Mobile Links -->
@@ -121,12 +122,6 @@ import Banner from "@components/Banner.astro";
                   >
                     Hours of Operation
                   </p>
-                  <p
-                    class="font-sans uppercase tracking-wide font-thin italic text-white"
-                  >
-                    Starting Wednesday, June 12
-                  </p>
-
                   <ul>
                     <li>Tuesday to Sunday: 4:30PM - 9:30PM</li>
                   </ul>

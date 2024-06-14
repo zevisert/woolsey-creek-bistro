@@ -52,6 +52,26 @@ import Layout from "@layouts/Layout.astro";
     text-align: center;
     font-size: x-large;
     line-height: 2em;
+    padding: 1em 0;
+  }
+  .markdown h3 {
+    text-align: center;
+    font-weight: bold;
+    line-height: 1em;
+  }
+
+  .markdown h3 + p {
+    font-style: italic;
+    text-align: center;
+  }
+
+  .markdown h4 {
+    font-weight: bold;
+    line-height: 1em;
+  }
+
+  .markdown h4 + p {
+    font-style: italic;
   }
 
   .markdown p:not(:last-of-type) {
