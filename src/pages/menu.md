@@ -100,7 +100,7 @@ pan-seared chicken thigh, mushroom & leek risotto, seasonal vegetables, lemon & 
 rotating seasonal mushroom, ricotta, shallot, fresh herbs, smoked paprika, romesco sauce,
 garlic ciabatta | V, GF (by request)
 
-<aside class="grid grid-cols-2 gap-6 grid-flow-row mx-auto w-4/5">
+<aside class="grid grid-cols-1 sm:grid-cols-2 gap-6 grid-flow-row mx-auto w-4/5">
 <section>
 
 #### ADD | 9
