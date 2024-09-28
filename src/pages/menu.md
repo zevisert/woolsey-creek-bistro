@@ -1,153 +1,149 @@
 ---
-title: Summer Menu '24
+title: Autumn Menu '24
 layout: ../layouts/Menu.astro
 ---
 
-# Summer Menu
+# Autumn Menu
+
+# The Woolsey - TAVERN SIDE
 
 ## SALADS
 
-### GRAPEFRUIT & MINT | 16
+### WALDORF SALAD | 14
 
-grapefruit supreme, mint, toasted cashew, cucumber, goat cheese, snow pea, grapefruit & honey dressing | V, GF
+Walnut crumb, gorgonzola, golden delicious apple, greens, celery, Mayonnaise | V, GF, can be VE
 
-### YELLOW-FLESH POTATO | 16
+### ROAST BUTTERNUT SQUASH SALAD | 16
 
-green bean, snow pea, pickled shallot, radish, arugula, goat cheese, lemon & herb vinaigrette | _V, GF_
+Roasted butternut squash, toasted pumpkin seeds, crumbled goats cheese, greens, fermented zucchini
+vinaigrette, carrot and parsnip chips | V, GF, can be VE
 
-### KALE & PARMIGIANO REGGIANO | 13
+### HOUSE SALAD | 13
 
-kale, parmigiano reggiano, toasted walnut, lemon & olive oil dressing, cracked pepper | V, GF
+Mixed greens, toasted walnut, carrot and parsnip chips, fermented zucchini vinaigrette | V, GF
 
-### ADD PROTEIN | 11
+### ADD PROTEIN | 12
 
-chicken thigh or pan-seared snapper
+Coconut chicken breast | GF
 
-## SHARED PLATES
+## SOUPS
 
-### BRUSCHETTA | 26
+We offer small batches of both a vegetarian option and an option with meat, please ask your server about our current offerings. Soups come with toasted baguette.
 
-roma tomato, basil, kalamata olive, parmigiano reggiano, baguette | V, VG
-
-### ARANCINI | 16
-
-mushroom & leek risotto, heirloom tomato confit | V, GF
-
-### PAN-SEARED SCALLOPS | 31
-
-pan seared, leek, toasted pine nut crumb, fried caper, lemon, garlic | GF
-
-### RED SNAPPER CRUDO | Coming Soon
-
-cucumber lemon crudo, pickled shallot, cucumber, grapefruit ‘roe’, zucchini petal,
-fennel frond, fresh herbs | GF, DF
-
-### DEVILED EGGS IN A NEST | 14
-
-crispy onion, parmigiano reggiano, smoked paprika, fresh dill | V, DF (by request)
-
-### CRACKLING PORK BELLY | 20
-
-pan-seared pork belly, fennel, dill, tarragon, orange gastrique, pickled shallot | GF, DF
-
-### CHARCUTERIE | 45
-
-prosciutto, capocollo, genoa salami, rotating selection of cheese, olives, walnut, gremolata,
-crostini, sliced ciabatta
-
-### ROAST YAM & FRIED POLENTA |11
-
-roasted yam with herbs, fried polenta, spiced yogurt | V, GF
-
-### MUSSELS WITH SAFFRON CREAM | 24
-
-fresh BC mussels steamed with white wine, shallot, saffron cream, pickled onion, garlic ciabatta
-
-### MUSSELS WITH TOMATO & FENNEL | 29
-
-fresh BC mussels steamed with white wine, tarragon cream, heirloom tomato, fennel,
-chorizo, shallot, garlic ciabatta
-
-## PANINI
-
-### CLASSIC | 20
-
-ciabatta, sliced salami, capocollo, prosciutto, fresh mozzarella, tomato, roast garlic puree,
-arugula tossed in herb vinaigrette
-
-### VEGGIE | 18
-
-ciabatta, sautéed onion, grilled red pepper & zucchini, roma tomato, goat cheese, roast garlic puree
-arugula tossed in herb vinaigrette| V
-
-## MAINS
-
-### BRAISED BEEF SHANK | 42
-
-ragu, polenta, rotating seasonal mushroom, heirloom tomato confit, seasonal vegetables| GF
-
-### ACQUA PAZZA | 36
-
-poached red snapper in tomato & wine broth, heirloom tomato, fennel, onion, crostini, yellow-flesh potato,
-gremolata, fresh herbs| GF, DF
-
-### MUSHROOM RISOTTO & CHICKEN THIGH | 36
-
-pan-seared chicken thigh, mushroom & leek risotto, seasonal vegetables, lemon & thyme jus| GF
-
-### ZUCCHINI INVOLTINI | 30
-
-rotating seasonal mushroom, ricotta, shallot, fresh herbs, smoked paprika, romesco sauce,
-garlic ciabatta | V, GF (by request)
-
-<aside class="grid grid-cols-1 sm:grid-cols-2 gap-6 grid-flow-row mx-auto w-4/5">
+<aside class="grid grid-cols-1 sm:grid-cols-2 gap-6 grid-flow-row mx-auto w-4/5 text-center font-bold">
 <section>
 
-#### ADD | 9
-
-polenta fries | GF, sauteed mushroom | GF, DF, or glazed seasonal vegetable | GF, DF
+$13 - Herbivore
 
 </section>
 <section>
 
-#### ADD | 11
-
-chicken thigh or red snapper
-
-</section>
-<section>
-
-#### ADD | 6
-
-'La Baguette' fresh baguette or ciabatta
-
-</section>
-
-<section>
-
-#### ADD | 8
-
-house kale salad
+$15 - Carnivore
 
 </section>
 </aside>
 
+## BURGERS
+
+All burgers are served on a potato bun and come with house cut fries and house made mayonnaise. Ask
+your server about vegan and GF/DF options. Substitute soup or salad, $6
+
+### PORK PORCHETTA BURGER | 27
+
+Roast pork belly with apple, fennel, sage, orange chutney, cabbage, pickled shallot and roasted garlic aioli.
+
+### COCONUT FRIED CHICKEN | 25
+
+Butterflied chicken breast coated in panko and shredded coconut, mango and fermented habanero sauce, red
+cabbage tossed in lime juice, pickled poblano, side of caramelised onion mayo with cilantro.
+
+### FISH BURGER | 25
+
+Red snapper battered to order in lemon, turmeric and IPA beer batter, house made tartar sauce, fermented
+kale and fresh cucumber salad
+
+### BISON BONE MARROW | 29
+
+Bison and Sun-dried tomato patty, bone marrow and roasted garlic butter, gorgonzola, sauteed wild
+mushrooms, truffle and chive mayonnaise, pickled shallot and greens.
+
+### BACON CHEDDAR | 26
+
+beef patty, crispy bacon, smoked cheddar, beefsteak tomato, dill pickle, greens and caramelised onion mayo.
+
+### SHREDDED JACKFRUIT | 23
+
+Pulled jackfruit in house BBQ sauce, classic slaw, dill pickle, roasted garlic aioli 20
+
+### THE BURGER FOR THE CHILDREN |14
+
+We offer a choice of beef, jackfruit or chicken with pickles, mayo and ketchup.
+Served with fries and ketchup.
+
+<aside class="grid grid-cols-1 sm:grid-cols-2 gap-6 grid-flow-row mx-auto w-4/5 text-center font-bold">
+<section>
+
+ADD Bacon | 6
+
+</section>
+<section>
+
+ADD Smoked Cheddar | 4
+
+</section>
+</aside>
+
+# The Woolsey - DINING SIDE
+
+## APPETIZERS and MAIN COURSES
+
+We are excited to offer a casual menu in appreciation of all the support received
+from locals over the years, but we also want to continue to offer a dining experience
+that The Woolsey has become known for.
+
+Until November 3, 2024, we are offering our guests the choice of two rotating
+appetisers and main course menu items. There will always be a vegetarian main and
+appetizer option along with an appetizer and main option that contain meat. These
+Fall features will be highlighting what our chefs are testing for our Winter menu
+items.
+
+Please ask your server for details and suggested wine pairings.
+
+<div class='text-center'>
+
+**ADD** _sauteed mushroom_ | GF, DF **| 9**
+
+**ADD** _baguette or glazed seasonal vegetable_ | V **| 6**
+
+</div>
+
 ## DESSERT
-
-### VANILLA BEAN CRÈME BRÛLÉE | 13
-
-kaffir lime & lemongrass infused, strawberry compote | GF, NF
 
 ### COCONUT CHOCOLATE OPERA CAKE | 13
 
-almond sponge, espresso, chocolate ganache, coconut cream, yam, almond Florentine,
+almond sponge, espresso, chocolate ganache, coconut cream, yam, almond florentine,
 cherry gastrique | VE, GF
 
-### BAKED MERINGUE WITH LEMON CURD | 13
+### PUMPKIN PIE | 13
 
-lemon curd, meringue nest, chantilly cream, blueberry coulis, seasonal berry | GF, NF
+&nbsp;
 
-### VANILLA GELATO | coming soon
+### FRUIT PIE OF THE DAY | 13
+
+&nbsp;
+
+### VANILLA GELATO | 9
+
+locally made at La Baguette
+
+### The Woolsey - SUNDAY ROAST
+
+Sundays only, we will be offering roast dinners with all the fixings for two or four
+people. Rotating beef or pork cuts, roasted vegetables, mashed or roasted potatoes,
+Yorkshire pudding & in-house gravy, rotating chutney and your choice of our pies.
+Take-out and dine-in options available. Tavern Side menu will also be available.
+
+Please ask your server for details, reservations and preordering are encouraged.
 
 &nbsp;
 

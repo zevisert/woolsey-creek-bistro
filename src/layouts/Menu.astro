@@ -4,7 +4,7 @@ import Layout from "@layouts/Layout.astro";
 
 <Layout title="Menu | Woolsey Creek Bistro">
   <!-- <Banner /> -->
-  <div class="flex w-full justify-center pt-12 mt-8 print:mt-0">
+  <div class="flex w-full justify-center pt-12 mt-8 print:hidden">
     <a href="/">
       <img
         alt="Woolsey Creek Bistro Logo"
@@ -41,16 +41,11 @@ import Layout from "@layouts/Layout.astro";
     line-height: 2em;
     text-transform: uppercase;
   }
-
-  @media print {
-    .markdown h1:not(:first-of-type) {
-      page-break-before: always;
-    }
-  }
-
   .markdown h2 {
     text-align: center;
     font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
     line-height: 2em;
     padding: 1em 0;
   }
@@ -60,7 +55,7 @@ import Layout from "@layouts/Layout.astro";
     line-height: 1em;
   }
 
-  .markdown h3 + p {
+  .markdown h3 ~ p {
     font-style: italic;
     text-align: center;
   }
@@ -70,7 +65,7 @@ import Layout from "@layouts/Layout.astro";
     line-height: 1em;
   }
 
-  .markdown h4 + p {
+  .markdown h4 ~ p {
     font-style: italic;
   }
 
@@ -104,5 +99,17 @@ import Layout from "@layouts/Layout.astro";
 
   .markdown table td:last-child {
     @apply text-right font-semibold;
+  }
+
+  @media print {
+    .markdown h1:first-of-type {
+      display: none;
+    }
+    .markdown h2 {
+      padding: 0;
+    }
+    .markdown h1:not(:first-of-type) {
+      page-break-before: always;
+    }
   }
 </style>
