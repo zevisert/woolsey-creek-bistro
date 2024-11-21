@@ -1,6 +1,7 @@
 # build output
 dist/
 .output/
+.astro/
 
 # dependencies
 node_modules/
@@ -31,4 +32,3 @@ devenv.local.nix
 
 # pre-commit
 .pre-commit-config.yaml
-
