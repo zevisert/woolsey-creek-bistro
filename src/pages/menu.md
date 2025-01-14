@@ -7,25 +7,25 @@ layout: ../layouts/Menu.astro
 
 ## APPETIZERS
 
-### FOCACCIA | 11
+### FOCACCIA MOSAIC | 11
 
-House made bread served with rotating, flavoured butter. | _V, can be DF_
+House made bread with parsley, cherry tomato & shallots. Served with rotating, compound butter. | _V, can be DF_
 
 ### GRAVLAX | 23
 
-Beet cured coho salmon, orange panna cotta, fermented beet purée, dill oil, served with beet chips. | _GF_
+Beet & gin cured Atlantic salmon, orange panna cotta, fermented beet purée, dill oil. Served with beet chips. | _GF, P_
 
 ### ONION TART | 17
 
-Caramelized pearl onion, flakey butter pastry, scotch infused marmalade, goat cheese and rosemary mousse. | _V_
+Caramelized onion & roasted garlic, flakey butter & herb pastry, scotch infused marmalade, with goat cheese & rosemary mousse. | _V_
 
 ### CARPACCIO | 27
 
-Bison striploin, charred cherry tomato, fermented brunoise fennel, anise & red wine glaze, foie gras “snow”, fried kale. | _GF, DF_
+Bison striploin, charred & dried cherry tomato, fermented brunoise fennel, anise & red wine glaze, foie gras "snow", with fried kale. | _GF, DF_
 
 ### CHARCUTERIE BOARD | 25
 
-Prosciutto, capocollo, genoa salami, rotating selection of cheese, crostini, sliced focaccia.
+Prosciutto, capocollo, genoa salami, rotating selection of cheese, pickled vegetables, olive tapenade, and sliced focaccia.
 
 ## SOUP
 
@@ -43,21 +43,21 @@ Prosciutto, capocollo, genoa salami, rotating selection of cheese, crostini, sli
 </aside>
 <br>
 
-Small batch, vegetarian & omnivore soup options. Made in house, served with our focaccia.
+Small batch, vegetarian or soups made with meat that are made in house and served with our focaccia.
 
 ## SALADS
 
 ### THE VOIGT | 16
 
-Kale, parmigiano reggiano, toasted walnut, lemon & olive oil, fresh cracked pepper. | _V, GF, can be VE or DF_
+Kale, Parmigiano Reggiano, toasted walnut, lemon & olive oil, fresh cracked pepper. | _V, GF, can be VE & DF_
 
 ### ODE TO SQUASH | 19
 
-Roasted butternut squash, arugula, crumbled goat cheese, fermented zucchini vinaigrette, toasted pumpkin seed, pickled onion, carrot chips. | _V, GF, can be VE, DF_
+Roasted butternut squash, arugula, crumbled goat cheese, fermented zucchini vinaigrette, toasted pumpkin seed, pickled onion, and carrot chips. | _V, GF, can be VE & DF_
 
-### CABBAGE & PEARL BARLEY | 17
+### ROAST PEPPER & PROSCIUTTO | 18
 
-Braised cabbage, toasted walnut, pearl barley, arugula, fresh dill, fermented zucchini vinaigrette, cranberry and fermented kale pearls. | _VE, GF, DF_
+Arugula, toasted almonds, crispy prosciutto, pickled zucchini, cherry tomatoes, shallot julienne, roasted red pepper vinaigrette and crumbled goat cheese. | _GF, can be VE & DF_
 
 <br>
 <hr>
@@ -67,54 +67,51 @@ This winter we are excited to offer rotating features throughout the season to s
 
 ## MAINS
 
-### BEEF & BONE MARROW BURGER | 29
-
-Two Rivers beef patty, bone marrow & roasted garlic butter, gorgonzola, sauteed wild mushrooms, pickled shallot, greens, truffle & chive mayonnaise.
-
-### PORK CASSOULET | 49
-
-Bone in loin rack, sage & apple cassoulet, seared cabbage, pickled mustard seed, apple & dijon purée. Served with our house made focaccia. | _DF, can be GF_
-
 ### BISON STRIPLOIN | 55
 
-California cut Alberta bison, duchess potato, grilled fennel, cherry & bourbon demi-glace, compound bone marrow butter, pickled mustard seed & fermented fennel. | _GF_
+California cut Alberta bison, duchess potato, grilled asparagus, cherry & bourbon demi-glace, compound bone marrow butter, pickled fennel & mustard seed with fermented fennel. | _GF_
 
-### DUCK BREAST & PEARL BARLEY | 47
+### DUCK BREAST & FARRO | 47
 
-Yarrow Meadows duck breast, poached pear, walnut & pearl barley, wild mushroom, cranberry pearls, seared foie gras torchon, sherry gastrique. | _GF, DF_
+Yarrow Meadows duck breast, poached pear, farro & wild mushroom, roasted brussel sprouts, cranberry & cherry pearls, seared foie gras torchon, toasted walnut, and sherry gastrique. | _Can be DF_
 
 ### PAPPARDELLE | 29
 
-House made pasta served with cherry tomatoes, shallot, lemon, capers, parmigiano reggiano, toasted peppercorn & parsley. | _V_
+House made pasta served with cherry tomatoes, shallot, lemon, capers, Parmigiano Reggiano, with toasted peppercorn & parsley. | _V_
 
-### SQUASH & MUSHROOM | 31
+### SQUASH & MUSHROOM | 32
 
-Butternut squash & potato rösti, blue oyster mushroom, grilled fennel, fermented zucchini coconut cream, toasted walnuts, cranberry pearls. | _V, VE, GF, DF_
+Butternut squash & potato rösti, pan seared blue oyster mushroom, grilled fennel, cranberry & cherry pearls, fermented zucchini & coconut cream, and toasted walnuts. | _VE, GF, DF_
 
-### MARKET SEAFOOD | Market Price
+### POACHED LING COD & PRAWNS | MP
 
-Feature seafood, spiced navy beans, pea & tarragon purée, grilled leek, confit red pepper, fermented kale spheres, roast lemon & saffron oil. | _GF_
+Zucchini wrapped Ling Cod-poached in lemon & saffron oil. Argentinian prawns, squid ink rice, grilled leek, roasted red pepper puree, charred peas with chillies and mint. | _GF, can be DF & P_
 
 ### OSSOBUCO FOR TWO | 95
 
-Braised bone-in beef shank, rotating accompaniments. | _Can be GF or DF_
+Braised bone-in beef shank, served with rotating accompaniments.
 
 ## ADDITIONS FOR YOUR MEAL
 
 <aside class="grid grid-cols-1 sm:grid-cols-2 gap-6 grid-flow-row mx-auto w-4/5 text-center">
 <section>
 
-sauteed mushroom | _V, GF, DF_ **| 9**
+sauteed mushroom | _V, GF, can be DF_ **| 9**
 
 </section>
 <section>
 
-seasonal vegetables | _V, GF, DF_ **| 9**
+seasonal vegetables | _V, GF, can bn DF_ **| 9**
 
 </section>
 <section>
 
-chorizo sausage **| 7**
+chorizo sausage | _GF, DF_ **| 7**
+
+</section>
+<section>
+
+focaccia | _V_ **| 6**
 
 </section>
 <section>
@@ -124,12 +121,12 @@ anchovies | _GF, DF_ **| 6**
 </section>
 <section>
 
-market seafood | _GF_ **| MP**
+ling cod | _GF, can be DF, P_ **| MP**
 
 </section>
 <section>
 
-focaccia | _V_ **| 6**
+Argentinian prawns | _GF, can be DF, P_ **| 14**
 
 </section>
 </aside>
@@ -138,7 +135,7 @@ focaccia | _V_ **| 6**
 
 PRICES DO NOT INCLUDE TAX OR GRATUITY | 18% AUTO GRATUITY FOR GROUPS OF SIX OR MORE
 
-ASK YOUR SERVER ABOUT OPTIONS FOR CHILDREN | DF-dairy free | GF-gluten free | VE-vegan | V-vegetarian
+ASK YOUR SERVER ABOUT OPTIONS FOR CHILDREN | P-pescatarian | DF-dairy free | GF-gluten free | VE-vegan | V-vegetarian
 
 WE USE NUTS IN OUR KITCHEN BUT WE DO NOT USE OR HAVE PEANUTS.
 
@@ -147,3 +144,50 @@ ALL PRICES & ACCOMPANIMENTS ON THIS MENU ARE SUBJECT TO CHANGE.
 We gratefully acknowledge that the Woolsey and namesake Woolsey Peak & Creek lie in the unceded territories of the Sinixt, the Ktunaxa, the Secwepemc, and the Syilx Okanagan Nations. We respectfully honour their people, cultures, and traditions
 
 </div>
+
+## WHITE WINE
+
+|                                                                             | 5oz Glass | 750mL Bottle |
+| --------------------------------------------------------------------------- | --------- | ------------ |
+| **HESTER CREEK CHARACTER WHITE 2023** <wbr> _VQA Okanagan Valley_           | 9         | 43           |
+| **WILD GOOSE SAUVIGNON BLANC 2022** <wbr> _VQA Okanagan Valley_             | 12        | 59           |
+| **TANTALUS RIESLING 2023** <wbr> _VQA East Kelowna Slopes, Okanagan Valley_ | 12        | 59           |
+| **TEDESCHI CAPITEL TENDA SOAVE 2022** <wbr> _Soave Classico DOC, Italy_     | 9         | 43           |
+| **LAUREN V GRÜNER VELTLINER 2022** <wbr> _Kamptal, Austria_                 | 12        | 59           |
+| **DA SILVA CHARDONNAY 2022** <wbr> _VQA Okanagan Valley_                    | 13        | 63           |
+| **CHRONOS CHARDONNAY 2021** <wbr> _VQA Okanagan Valley_                     |           | 68           |
+| **ROMBAUER VINEYARDS CHARDONNAY 2021** <wbr> _Carneros, California_         |           | 113          |
+
+## ROSÉ
+
+|                                     | 5oz Glass | 750mL Bottle |
+| ----------------------------------- | --------- | ------------ |
+| **BARTIER BROTHERS** <wbr> _VQA BC_ | 11        | 53           |
+
+## RED WINE
+
+|                                                                                           | 5oz Glass | 750mL Bottle |
+| ----------------------------------------------------------------------------------------- | --------- | ------------ |
+| **HESTER CREEK CABERNET MERLOT 2022** <wbr> _VQA Okanagan Valley_                         | 10        | 48           |
+| **FAIRVIEW CELLARS PINOT NOIR 2022** <wbr> _VQA Okanagan Valley_                          | 14        | 68           |
+| **CORCELETTES CABERNET FRANC 2022** <wbr> _VQA Similkameen Valley_                        | 13        | 63           |
+| **BLACK HILLS ESTATE BONA FIDE 2022** <wbr> _VQA Okanagan Valley_                         | 15        | 73           |
+| **HALOS DE JUPITER 2022** <wbr> _DOC Côtes Du Rhône, France_                              | 15        | 73           |
+| **CHRONOS SYRAH 2020** <wbr> _VQA Okanagan Valley_                                        |           | 83           |
+| **ROCHE CHÂTEAU 2019** <wbr> _VQA Okanagan Valley_                                        |           | 99           |
+| **DA SILVA CABERNET SAUVIGNON 2021** <wbr> _VQA Okanagan Valley_                          |           | 81           |
+| **CASTELLO BANFI BRUNELLO DI MONTALCINO 2017** <wbr> _Brunello di Montalcino DOCG, Italy_ |           | 101          |
+| **CROGNOLO TENUTA SETTE PONTI 2022** <wbr> _Toscana IGT, Italy_                           |           | 85           |
+
+## SPARKLING WINE
+
+|                                                                            | 5oz Glass | 750mL Bottle |
+| -------------------------------------------------------------------------- | --------- | ------------ |
+| **LA MARCA PROCESSCO** <wbr> Prosecco DOC, Italy                           | 11        | 53           |
+| **MEYER EXTRA BRUT NV** <wbr> _methode traditionelle, VQA Okanagan Valley_ |           | 90           |
+
+## PORT
+
+|                                          | 2oz Glass |
+| ---------------------------------------- | --------- |
+| **TAYLOR FLADGATE LBV** <wbr> _Portugal_ | 11        |
